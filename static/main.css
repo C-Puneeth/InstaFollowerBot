@@ -1,0 +1,22 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+  
+}
+
+
+input{
+   border: none;
+
+}
+
+.one{
+   border-radius: 10px;
+    width: 100px;
+   height: 100px;
+   display: flex;
+   box-shadow: 6px 1px 5px rgba(129, 126, 126,1) 
+   ,-2px -1px 10px rgba(0,0, 0, 1);
+   margin: 10px;
+}
